@@ -8,10 +8,11 @@
       <p><b>地址：浙江省宁波市 邮编315000</b></p>
     </td>
     <td width="25%">
-      <img src="/11.png" width="100%">      % 插入证件照代码
+      <img src="/11.png" width="100%">    
     </td>
   </tr>
-</table># Welcome to GitHub Pages
+</table>
+# Welcome to GitHub Pages
 
 ## Intorduce myself
 ### Name: zhoujing
